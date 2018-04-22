@@ -2,7 +2,7 @@
 This is the course provided by Coursera (Imperial College London)
 Programming Assignment Submitted 
 
-Programming Assignment 1: 
+Programming Assignment 1:  (code inside specialmatrices.py)
    
    
    
