@@ -35,3 +35,14 @@ How to submit
 Edit the code in the cell below to complete the assignment. Once you are finished and happy with it, press the Submit Assignment button at the top of this notebook.
 
 Please don't change any of the function names, as these will be checked by the grading script.# Mathematics-for-Machine-Learning-Linear-Algebra
+
+
+
+Programming Assignment 2: 
+Gram-Schmidt process
+Instructions
+In this assignment you will write a function to perform the Gram-Schmidt procedure, which takes a list of vectors and forms an orthonormal basis from this set. As a corollary, the procedure allows us to determine the dimension of the space spanned by the basis vectors, which is equal to or less than the space which the vectors sit.
+
+You'll start by completing a function for 4 basis vectors, before generalising to when an arbitrary number of vectors are given.
+
+Again, a framework for the function has already been written. Look through the code, and you'll be instructed where to make changes. We'll do the first two rows, and you can use this as a guide to do the last two.
