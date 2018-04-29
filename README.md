@@ -2,7 +2,7 @@
 This is the course provided by Coursera (Imperial College London)
 Programming Assignment Submitted 
 
-Programming Assignment 1:  (code inside specialmatrices.py)
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Programming Assignment 1:  (code inside specialmatrices.py)
    
    
    
@@ -38,7 +38,7 @@ Please don't change any of the function names, as these will be checked by the g
 
 
 
-Programming Assignment 2: 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Programming Assignment 2: 
 Gram-Schmidt process
 Instructions
 In this assignment you will write a function to perform the Gram-Schmidt procedure, which takes a list of vectors and forms an orthonormal basis from this set. As a corollary, the procedure allows us to determine the dimension of the space spanned by the basis vectors, which is equal to or less than the space which the vectors sit.
