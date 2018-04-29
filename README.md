@@ -46,3 +46,6 @@ In this assignment you will write a function to perform the Gram-Schmidt procedu
 You'll start by completing a function for 4 basis vectors, before generalising to when an arbitrary number of vectors are given.
 
 Again, a framework for the function has already been written. Look through the code, and you'll be instructed where to make changes. We'll do the first two rows, and you can use this as a guide to do the last two.
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Programming Assignment 3 :
+Panda Bear is confused. He is trying to work out how things should look when reflected in a mirror, but is getting the wrong results. As is the way with bears, his coordinate system is not orthonormal: so what he thinks is the direction perpendicular to the mirror isn't actually the direction the mirror reflects in. Help Bear write a code that will do his matrix calculations properly!
