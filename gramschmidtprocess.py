@@ -11,7 +11,7 @@ verySmallNumber = 1e-14 # That's 1×10⁻¹⁴ = 0.00000000000001
 # Follow the instructions inside the function at each comment.
 # You will be told where to add code to complete the function.
 def gsBasis4(A) :
-    B = np.array(A, dtype=np.float_) # Make B as a copy of A, since we're going to alter it's values.
+    B = np.array(A, dtype=np.float_) # Make B as a copy of A, since we're going to alter its values.
     # The zeroth column is easy, since it has no other vectors to make it normal to.
     # All that needs to be done is to normalise it. I.e. divide by its modulus, or norm.
     B[:, 0] = B[:, 0] / la.norm(B[:, 0])
@@ -67,7 +67,7 @@ def gsBasis4(A) :
 # Previously, we could only have four vectors, and there was a lot of repeating in the code.
 # We'll use a for-loop here to iterate the process for each vector.
 def gsBasis(A) :
-    B = np.array(A, dtype=np.float_) # Make B as a copy of A, since we're going to alter it's values.
+    B = np.array(A, dtype=np.float_) # Make B as a copy of A, since we're going to alter its values.
     # Loop over all vectors, starting with zero, label them with i
     for i in range(B.shape[1]) :
         # Inside that loop, loop over all previous vectors, j, to subtract.
